@@ -12,5 +12,3 @@
 💼 Sou desenvolvedor Java na CWI Software, onde aplico minhas habilidades e conhecimentos para criar soluções de software robustas e eficientes.
 
 🌱 Atualmente, estou finalizando meu Trabalho de Conclusão de Curso (TCC), que consiste no desenvolvimento de uma biblioteca em Java para aumentar a produtividade em Testes Unitários. Você pode conferir o projeto neste repositório: https://github.com/BrunoKayser/generic-fixture.
-
-# 🚧🚧🚧 Em construção 🚧🚧🚧
