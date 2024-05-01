@@ -1,6 +1,8 @@
 
 # 🚧🚧🚧 Em construção 🚧🚧🚧
 
+![](https://komarev.com/ghpvc/?username=BrunoKayser&color=006bed)
+
 ## Sobre mim
 
 💡 Sou um entusiasta do aprendizado e estou sempre ansioso para expandir meus conhecimentos e ajudar os outros com o que sei. Sou uma pessoa inquieta por natureza, sempre buscando novos desafios e contribuindo para o sucesso da equipe. Atualmente, faço parte de um time em um grande banco do setor financeiro brasileiro, onde também desempenho o papel de instrutor e mentor em projetos como Crescer, Reset e +PraTi.
