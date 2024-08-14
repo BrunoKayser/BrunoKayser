@@ -9,7 +9,7 @@
 
 💼 Sou desenvolvedor Java na CWI Software, onde aplico minhas habilidades e conhecimentos para criar soluções de software robustas e eficientes. Atualmente, faço parte de um time que atende um grande banco do setor financeiro brasileiro, meu papel é de Referência Técnica na squad. Na CWI também desempenho o papel de instrutor e mentor em projetos como Crescer, Reset e +PraTi
 
-🌱 Atuo em um projeto pessoal,que consiste no desenvolvimento de uma biblioteca em Java para aumentar a produtividade em Testes Unitários, tal biblioteca é usado em projetos de mercado. Você pode conferir o projeto neste repositório: https://github.com/BrunoKayser/generic-fixture.
+🌱 Atuo em um projeto pessoal, que consiste no desenvolvimento de uma biblioteca em Java para aumentar a produtividade em Testes Unitários, tal biblioteca é usado em projetos de mercado. Você pode conferir o projeto neste repositório: https://github.com/BrunoKayser/generic-fixture.
 
 ## ⭐ GitHub Stats
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoKayser&hide=html&layout=compact&theme=dracula)](https://github.com/BrunoKayser)
